@@ -1,0 +1,65 @@
+E:\КА ШАГ\WpfKurs\WpfKurs\bin\Debug\WpfKurs.exe.config
+E:\КА ШАГ\WpfKurs\WpfKurs\bin\Debug\WpfKurs.exe
+E:\КА ШАГ\WpfKurs\WpfKurs\bin\Debug\WpfKurs.pdb
+E:\КА ШАГ\WpfKurs\WpfKurs\bin\Debug\MaterialDesignColors.dll
+E:\КА ШАГ\WpfKurs\WpfKurs\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\КА ШАГ\WpfKurs\WpfKurs\bin\Debug\MaterialDesignColors.pdb
+E:\КА ШАГ\WpfKurs\WpfKurs\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\КА ШАГ\WpfKurs\WpfKurs\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\КА ШАГ\WpfKurs\WpfKurs\obj\Debug\WpfKurs.csprojAssemblyReference.cache
+E:\КА ШАГ\WpfKurs\WpfKurs\obj\Debug\MainWindow.g.cs
+E:\КА ШАГ\WpfKurs\WpfKurs\obj\Debug\App.g.cs
+E:\КА ШАГ\WpfKurs\WpfKurs\obj\Debug\WpfKurs_MarkupCompile.cache
+E:\КА ШАГ\WpfKurs\WpfKurs\obj\Debug\WpfKurs_MarkupCompile.lref
+E:\КА ШАГ\WpfKurs\WpfKurs\obj\Debug\App.baml
+E:\КА ШАГ\WpfKurs\WpfKurs\obj\Debug\MainWindow.baml
+E:\КА ШАГ\WpfKurs\WpfKurs\obj\Debug\WpfKurs.g.resources
+E:\КА ШАГ\WpfKurs\WpfKurs\obj\Debug\WpfKurs.Properties.Resources.resources
+E:\КА ШАГ\WpfKurs\WpfKurs\obj\Debug\WpfKurs.csproj.GenerateResource.cache
+E:\КА ШАГ\WpfKurs\WpfKurs\obj\Debug\WpfKurs.csproj.CopyComplete
+E:\КА ШАГ\WpfKurs\WpfKurs\obj\Debug\WpfKurs.exe
+E:\КА ШАГ\WpfKurs\WpfKurs\obj\Debug\WpfKurs.pdb
+C:\Users\DISCLAIMER\Desktop\Шлак\КА ШАГ\WpfKurs\WpfKurs\bin\Debug\WpfKurs.exe.config
+C:\Users\DISCLAIMER\Desktop\Шлак\КА ШАГ\WpfKurs\WpfKurs\bin\Debug\WpfKurs.exe
+C:\Users\DISCLAIMER\Desktop\Шлак\КА ШАГ\WpfKurs\WpfKurs\bin\Debug\WpfKurs.pdb
+C:\Users\DISCLAIMER\Desktop\Шлак\КА ШАГ\WpfKurs\WpfKurs\bin\Debug\MaterialDesignColors.dll
+C:\Users\DISCLAIMER\Desktop\Шлак\КА ШАГ\WpfKurs\WpfKurs\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\DISCLAIMER\Desktop\Шлак\КА ШАГ\WpfKurs\WpfKurs\bin\Debug\MaterialDesignColors.pdb
+C:\Users\DISCLAIMER\Desktop\Шлак\КА ШАГ\WpfKurs\WpfKurs\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\DISCLAIMER\Desktop\Шлак\КА ШАГ\WpfKurs\WpfKurs\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\DISCLAIMER\Desktop\Шлак\КА ШАГ\WpfKurs\WpfKurs\obj\Debug\WpfKurs.csproj.AssemblyReference.cache
+C:\Users\DISCLAIMER\Desktop\Шлак\КА ШАГ\WpfKurs\WpfKurs\obj\Debug\MainWindow.g.cs
+C:\Users\DISCLAIMER\Desktop\Шлак\КА ШАГ\WpfKurs\WpfKurs\obj\Debug\App.g.cs
+C:\Users\DISCLAIMER\Desktop\Шлак\КА ШАГ\WpfKurs\WpfKurs\obj\Debug\WpfKurs_MarkupCompile.cache
+C:\Users\DISCLAIMER\Desktop\Шлак\КА ШАГ\WpfKurs\WpfKurs\obj\Debug\WpfKurs_MarkupCompile.lref
+C:\Users\DISCLAIMER\Desktop\Шлак\КА ШАГ\WpfKurs\WpfKurs\obj\Debug\App.baml
+C:\Users\DISCLAIMER\Desktop\Шлак\КА ШАГ\WpfKurs\WpfKurs\obj\Debug\MainWindow.baml
+C:\Users\DISCLAIMER\Desktop\Шлак\КА ШАГ\WpfKurs\WpfKurs\obj\Debug\WpfKurs.g.resources
+C:\Users\DISCLAIMER\Desktop\Шлак\КА ШАГ\WpfKurs\WpfKurs\obj\Debug\WpfKurs.Properties.Resources.resources
+C:\Users\DISCLAIMER\Desktop\Шлак\КА ШАГ\WpfKurs\WpfKurs\obj\Debug\WpfKurs.csproj.GenerateResource.cache
+C:\Users\DISCLAIMER\Desktop\Шлак\КА ШАГ\WpfKurs\WpfKurs\obj\Debug\WpfKurs.csproj.CoreCompileInputs.cache
+C:\Users\DISCLAIMER\Desktop\Шлак\КА ШАГ\WpfKurs\WpfKurs\obj\Debug\WpfKurs.csproj.CopyComplete
+C:\Users\DISCLAIMER\Desktop\Шлак\КА ШАГ\WpfKurs\WpfKurs\obj\Debug\WpfKurs.exe
+C:\Users\DISCLAIMER\Desktop\Шлак\КА ШАГ\WpfKurs\WpfKurs\obj\Debug\WpfKurs.pdb
+C:\Users\DISCLAIMER\Desktop\--41_TeamWork-Calendar\Calendar\WpfKurs\bin\Debug\WpfKurs.exe.config
+C:\Users\DISCLAIMER\Desktop\--41_TeamWork-Calendar\Calendar\WpfKurs\bin\Debug\WpfKurs.exe
+C:\Users\DISCLAIMER\Desktop\--41_TeamWork-Calendar\Calendar\WpfKurs\bin\Debug\WpfKurs.pdb
+C:\Users\DISCLAIMER\Desktop\--41_TeamWork-Calendar\Calendar\WpfKurs\bin\Debug\MaterialDesignColors.dll
+C:\Users\DISCLAIMER\Desktop\--41_TeamWork-Calendar\Calendar\WpfKurs\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\DISCLAIMER\Desktop\--41_TeamWork-Calendar\Calendar\WpfKurs\bin\Debug\MaterialDesignColors.pdb
+C:\Users\DISCLAIMER\Desktop\--41_TeamWork-Calendar\Calendar\WpfKurs\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\DISCLAIMER\Desktop\--41_TeamWork-Calendar\Calendar\WpfKurs\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\DISCLAIMER\Desktop\--41_TeamWork-Calendar\Calendar\WpfKurs\obj\Debug\WpfKurs.csproj.AssemblyReference.cache
+C:\Users\DISCLAIMER\Desktop\--41_TeamWork-Calendar\Calendar\WpfKurs\obj\Debug\MainWindow.g.cs
+C:\Users\DISCLAIMER\Desktop\--41_TeamWork-Calendar\Calendar\WpfKurs\obj\Debug\App.g.cs
+C:\Users\DISCLAIMER\Desktop\--41_TeamWork-Calendar\Calendar\WpfKurs\obj\Debug\WpfKurs_MarkupCompile.cache
+C:\Users\DISCLAIMER\Desktop\--41_TeamWork-Calendar\Calendar\WpfKurs\obj\Debug\WpfKurs_MarkupCompile.lref
+C:\Users\DISCLAIMER\Desktop\--41_TeamWork-Calendar\Calendar\WpfKurs\obj\Debug\App.baml
+C:\Users\DISCLAIMER\Desktop\--41_TeamWork-Calendar\Calendar\WpfKurs\obj\Debug\MainWindow.baml
+C:\Users\DISCLAIMER\Desktop\--41_TeamWork-Calendar\Calendar\WpfKurs\obj\Debug\WpfKurs.g.resources
+C:\Users\DISCLAIMER\Desktop\--41_TeamWork-Calendar\Calendar\WpfKurs\obj\Debug\WpfKurs.Properties.Resources.resources
+C:\Users\DISCLAIMER\Desktop\--41_TeamWork-Calendar\Calendar\WpfKurs\obj\Debug\WpfKurs.csproj.GenerateResource.cache
+C:\Users\DISCLAIMER\Desktop\--41_TeamWork-Calendar\Calendar\WpfKurs\obj\Debug\WpfKurs.csproj.CoreCompileInputs.cache
+C:\Users\DISCLAIMER\Desktop\--41_TeamWork-Calendar\Calendar\WpfKurs\obj\Debug\WpfKurs.csproj.CopyComplete
+C:\Users\DISCLAIMER\Desktop\--41_TeamWork-Calendar\Calendar\WpfKurs\obj\Debug\WpfKurs.exe
+C:\Users\DISCLAIMER\Desktop\--41_TeamWork-Calendar\Calendar\WpfKurs\obj\Debug\WpfKurs.pdb
